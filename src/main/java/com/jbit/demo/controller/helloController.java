@@ -34,7 +34,7 @@ public class helloController {
         book book1 = new book();
         book1.setName("三国演义");
         book1.setAuthor("罗贯中");
-        int a = 11;
+        int a = 1;
         book1.setPrice(30);
         book book2 = new book();
         book2.setName("红楼梦");
