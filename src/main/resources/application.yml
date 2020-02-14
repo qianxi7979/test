@@ -1,0 +1,9 @@
+book:
+  name: 红楼梦
+  author: 曹雪芹
+  price: 25
+  love:
+    - 足球
+    - 篮球
+
+
